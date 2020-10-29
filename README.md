@@ -2,7 +2,7 @@
 
 ## I'm a Developer and a senior year Student!!
 
-- 🔭 I’m currently working on [The International Bank of Azerbaijan](https://www.ibar.az/)
+- 🔭 I’m currently working at [The International Bank of Azerbaijan](https://www.ibar.az/)
 - 🌱 I’m currently learning everything 🎡
 - 🤔 I’m looking for help with everybody!
 - 💬 Ask me about Programming 👩💻, Music🎧, Movies🍿, Video Games🎮
@@ -33,11 +33,8 @@
 <br>
 <br>
 
-
-
----
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saraevaS)](https://github.com/saraevaS/github-readme-stats)
----
+
 [spring]: https://spring.io/projects/spring-boot
 [sql]: http://www.sqlcourse.com/
 [mysql]: https://www.mysql.com/
