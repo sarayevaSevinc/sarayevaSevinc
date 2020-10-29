@@ -41,7 +41,8 @@
 
 </details>
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saraevaS)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saraevaS)](https://github.com/saraevaS/github-readme-stats)
 
 [spring]: https://spring.io/projects/spring-boot
 [sql]: http://www.sqlcourse.com/
