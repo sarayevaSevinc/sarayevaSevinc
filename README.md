@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on The International Bank of Azerbaijan.
+🔭 The International Bank of Azerbaijan.
 I'm currently learning Everything!
 I'm looking for help with Everbody!
 Ask me about Programming, Music, Movies, Video Games!
