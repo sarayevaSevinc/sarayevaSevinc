@@ -1,4 +1,4 @@
-### Hello World I'm Sevinc! 👋
+### Hello World,  I'm Sevinc! 👋
 
 ## I'm a Developer and a senior year Student!!
 
@@ -34,6 +34,8 @@
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saraevaS)](https://github.com/saraevaS/github-readme-stats)
+<br>
+<br>
 
 [spring]: https://spring.io/projects/spring-boot
 [sql]: http://www.sqlcourse.com/
