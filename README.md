@@ -33,7 +33,7 @@
 <br>
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saraevaS)](https://github.com/saraevaS/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sarayevaSevinc)](https://github.com/sarayevaSevinc/github-readme-stats)
 <br>
 <br>
 
