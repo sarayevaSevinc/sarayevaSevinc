@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working at [The International Bank of Azerbaijan](https://www.ibar.az/)
 - 🌱 I’m currently learning everything 🎡
-- 🤔 I’m looking for help with everybody!
 - 💬 Ask me about Programming 👩💻, Music🎧, Movies🍿, Video Games🎮
 
 
