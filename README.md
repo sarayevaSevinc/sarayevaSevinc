@@ -1,6 +1,6 @@
 ### Hello World,  I'm Sevinc! 👋
 
-## I'm a Seftware Engineer!
+## I'm a Software Engineer!
 
 - 🔭 I’m currently working at [The International Bank of Azerbaijan](https://www.ibar.az/)
 - 🌱 I’m currently learning everything 🎡
