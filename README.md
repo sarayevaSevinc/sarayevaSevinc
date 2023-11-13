@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!
 
-- 🔭 I’m currently working at [The International Bank of Azerbaijan](https://www.ibar.az/)
+- 🔭 I’m currently working at [Bally's Interactive](https://www.ballys.com/home/default.aspx/)
 - 🌱 I’m currently learning everything 🎡
 - 💬 Ask me about Programming 👩💻, Music🎧, Movies🍿, Video Games🎮
 
@@ -23,11 +23,9 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Terminal" width="26px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115418336/original/f86ed785397b4f16ac357c3a186fc157fada48f9/make-restful-apis-in-python.png" />][rest]
 [<img align="left" alt="GitHub" width="26px" src="https://stackjava.com/wp-content/uploads/2017/12/spring-mvc-logo.png" />][mvc]
 [<img align="left" alt="Terminal" width="26px" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked.svg" />][hibernate]
-[<img align="left" alt="Terminal" width="26px" src="https://image.flaticon.com/icons/png/512/888/888879.png" />][ubuntu]
 ---
 <br>
 <br>
@@ -51,4 +49,3 @@
 [linkedin]: www.linkedin.com/in/sevinc-sarayeva/
 [githubp]:https://github.com/SaraevaS
 [facebook]:https://www.facebook.com/sevinc.saraeva.7
-[terminal]: https://ubuntu.com/
