@@ -8,12 +8,7 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="https://twitter.com/sevinj_0?s=09" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" www.linkedin.com/in/sevinc-sarayeva/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" https://instagram.com/sevinc.saraeva" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="https://www.facebook.com/sevinc.saraeva.7" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="https://github.com/SaraevaS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][githubp]
 <br />
 ---
 ### Languages and Tools:
