@@ -8,7 +8,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="https://www.linkedin.com/in/sevinc-sarayeva/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 ---
 ### Languages and Tools:
@@ -38,9 +38,5 @@
 [mvc]: https://docs.spring.io/
 [hibernate]:https://hibernate.org/
 [ubuntu]:https://ubuntu.com/
-[twitter]: https://twitter.com/sevinj_0?s=09
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/sevinc.saraeva
 [linkedin]: www.linkedin.com/in/sevinc-sarayeva/
 [githubp]:https://github.com/SaraevaS
-[facebook]:https://www.facebook.com/sevinc.saraeva.7
